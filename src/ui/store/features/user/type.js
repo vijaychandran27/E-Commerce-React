@@ -1,0 +1,6 @@
+export const GET_PING="GET_PING"
+export const SET_PING="SET_PING"
+export const GET_LOGIN_DATA="GET_LOGIN_DATA"
+export const SET_LOGIN_DATA="SET_LOGIN_DATA"
+export const GET_PRODUCT_DATA="GET_PRODUCT_DATA"
+export const SET_PRODUCT_DATA="SET_PRODUCT_DATA"
